@@ -5,7 +5,7 @@ import lejos.nxt.LCD;
 import lejos.nxt.SensorPort;
 import lejos.nxt.Button;
 
-public class Light1 {
+public class Light {
   public static void main(String[] args) {
     LCD.drawString("Sensor Optico", 0, 0); 
     LightSensor light = new LightSensor(SensorPort.S3);
