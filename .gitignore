@@ -1,6 +1,9 @@
 # Compiled class file
 *.class
 
+# leJOS executable file
+*.nxj
+
 # Log file
 *.log
 
